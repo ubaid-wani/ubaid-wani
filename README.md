@@ -8,7 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid-wani&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid-wani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
+- I’m looking to collaborate on **Frontend Projects**
 
+- Learning anything that pertains to JavaScript and problem solving
+  
 - 📫 How to reach me **ubaidwani133@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
