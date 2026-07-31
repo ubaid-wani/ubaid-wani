@@ -12,8 +12,8 @@ Hi there! 👋
 <h2 style="color:#1E90FF; font-weight:bold;">My GitHub Statistics</h2>
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=ubaid-wani&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=ubaid-wani&theme=default_repocard&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ubaid-wani&theme=default_repocard&hide_border=true&hide_title=true&include_all_commits=false&count_private=false" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ubaid-wani&theme=default_repocard&hide_border=true" width="49%" />
 </p>
 
 <h2 style="color:#1E90FF; font-weight:bold;">Tech Stack</h2>
