@@ -11,7 +11,10 @@ Hi there! 👋
 
 <h2 style="color:#1E90FF; font-weight:bold;">My GitHub Statistics</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=ubaid-wani&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=ubaid-wani&theme=default_repocard&hide_border=true)<br/>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=ubaid-wani&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=ubaid-wani&theme=default_repocard&hide_border=true" height="170" />
+</p>
 
 <h2 style="color:#1E90FF; font-weight:bold;">Tech Stack</h2>
 
