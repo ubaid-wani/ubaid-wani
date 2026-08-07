@@ -5,7 +5,7 @@ Hi there! 👋
   "job": "Software Engineer",
   "city": "Srinagar",
   "stack": ["TypeScript", "React.js", "Node.js", "Express.js", "Bun", "..."],
-  "interest": ["Tech", "Cricket", "Table Tennis", "..."]
+  "interest": ["Tech", "Cricket", "Table Tennis", "...."]
 }
 ```
 
